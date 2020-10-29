@@ -10,4 +10,9 @@ class Desenvolvedor extends Funcionario
     {
          $this->recebeAumento($this->recuperaSalario() * 0.75);
     }
+
+    public function calculaBonificacao()
+    {
+        $this->recuperaSalario() + 500;
+    }
 }
