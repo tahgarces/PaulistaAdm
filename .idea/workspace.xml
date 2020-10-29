@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f7fc0a5-ab41-41a2-93d7-d13d807b1f38" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1imJ9DHgkwrlhPZ0rwxbVWJ5sKz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/htdocs/ibombordo-venda" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Taynara Garces\Documents\classes\src\Abstrato" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Taynara Garces\Documents\classes\src\Abstrato" />
+      <recent name="C:\Users\Taynara Garces\Documents\classes\src\Modelo\Conta" />
+      <recent name="C:\Users\Taynara Garces\Documents\classes\src\Modelo" />
+      <recent name="C:\Users\Taynara Garces\Documents\classes" />
+      <recent name="C:\Users\Taynara Garces\Documents\classes\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.funcionarios.php">
+    <configuration name="Banco.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Banco.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="funcionario.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/Abstrato/funcionario.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="funcionario.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/funcionario.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="funcionarios.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/funcionarios.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="primeiro-teste.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" singleton="false" path="$PROJECT_DIR$/primeiro-teste.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.funcionarios.php" />
+        <item itemvalue="PHP Script.funcionario.php (1)" />
+        <item itemvalue="PHP Script.funcionario.php" />
+        <item itemvalue="PHP Script.Banco.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f7fc0a5-ab41-41a2-93d7-d13d807b1f38" name="Default Changelist" comment="" />
+      <created>1602506679444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602506679444</updated>
+      <workItem from="1602506680680" duration="13977000" />
+      <workItem from="1603228437822" duration="15923000" />
+      <workItem from="1603669998313" duration="600000" />
+      <workItem from="1603997256492" duration="1182000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="19" key="#CLI_Interpreters" timestamp="1602515747953">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="19" key="#CLI_Interpreters/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602515747953" />
+    <state x="390" y="7" key="#PHP" timestamp="1602515601843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="7" key="#PHP/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602515601843" />
+    <state x="528" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1603401719972">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602536248052" />
+    <state x="528" y="84" key="#com.intellij.ide.util.MemberChooser/62.0.1304.768/1366.0.1366.728@62.0.1304.768" timestamp="1603378808273" />
+    <state x="528" y="84" key="#com.intellij.ide.util.MemberChooser/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1603401719972" />
+    <state x="494" y="139" key="FileChooserDialogImpl" timestamp="1603669619260">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="494" y="139" key="FileChooserDialogImpl/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1603669619260" />
+    <state width="1261" height="192" key="GridCell.Tab.0.bottom" timestamp="1603669620753">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602548172992" />
+    <state width="1261" height="192" key="GridCell.Tab.0.bottom/62.0.1304.768/1366.0.1366.728@62.0.1304.768" timestamp="1603377744486" />
+    <state width="1261" height="192" key="GridCell.Tab.0.bottom/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1603669620753" />
+    <state width="1261" height="192" key="GridCell.Tab.0.center" timestamp="1603669620753">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602548172991" />
+    <state width="1261" height="192" key="GridCell.Tab.0.center/62.0.1304.768/1366.0.1366.728@62.0.1304.768" timestamp="1603377744486" />
+    <state width="1261" height="192" key="GridCell.Tab.0.center/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1603669620753" />
+    <state width="1261" height="192" key="GridCell.Tab.0.left" timestamp="1603669620753">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602548172989" />
+    <state width="1261" height="192" key="GridCell.Tab.0.left/62.0.1304.768/1366.0.1366.728@62.0.1304.768" timestamp="1603377744486" />
+    <state width="1261" height="192" key="GridCell.Tab.0.left/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1603669620753" />
+    <state width="1261" height="192" key="GridCell.Tab.0.right" timestamp="1603669620753">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602548172991" />
+    <state width="1261" height="192" key="GridCell.Tab.0.right/62.0.1304.768/1366.0.1366.728@62.0.1304.768" timestamp="1603377744486" />
+    <state width="1261" height="192" key="GridCell.Tab.0.right/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1603669620753" />
+    <state x="512" y="92" key="NewPhpClassDialog" timestamp="1603400108669">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="471" y="87" key="NewPhpClassDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602537042682" />
+    <state x="512" y="92" key="NewPhpClassDialog/62.0.1304.768/1366.0.1366.728@62.0.1304.768" timestamp="1603378733493" />
+    <state x="512" y="92" key="NewPhpClassDialog/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1603400108669" />
+    <state x="556" y="303" key="NewPhpFileDialog" timestamp="1603401364709">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602506974197" />
+    <state x="556" y="303" key="NewPhpFileDialog/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1603401364709" />
+    <state x="62" y="0" width="1122" height="535" key="dock-window-1" timestamp="1603377928355">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="61" y="81" width="1009" height="508" key="dock-window-1/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602537692767" />
+    <state x="62" y="0" width="1122" height="535" key="dock-window-1/62.0.1304.768/1366.0.1366.728@62.0.1304.768" timestamp="1603377928355" />
+    <state x="557" y="145" key="refactoring.ChangeSignatureDialog" timestamp="1603403254748">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="557" y="145" key="refactoring.ChangeSignatureDialog/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1603403254748" />
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1603392036202">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1603392036202" />
+  </component>
+</project>
