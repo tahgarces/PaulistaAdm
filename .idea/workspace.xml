@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f7fc0a5-ab41-41a2-93d7-d13d807b1f38" name="Default Changelist" comment="" />
+    <list default="true" id="8f7fc0a5-ab41-41a2-93d7-d13d807b1f38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Modelo/Funcionario/Desenvolvedor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modelo/Funcionario/Diretor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modelo/Funcionario/Gerente.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modelo/Funcionario.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/Funcionario/Funcionario.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Service/ControladorDeBonificacoes.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Service/ControladorDeBonificacoes.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +35,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1imJ9DHgkwrlhPZ0rwxbVWJ5sKz" />
   <component name="ProjectViewState">
@@ -18,23 +47,24 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/htdocs/ibombordo-venda" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Taynara Garces\Documents\classes\src\Abstrato" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PaulistaAdm\src\Modelo\Funcionario" />
       <recent name="C:\Users\Taynara Garces\Documents\classes\src\Abstrato" />
       <recent name="C:\Users\Taynara Garces\Documents\classes\src\Modelo\Conta" />
       <recent name="C:\Users\Taynara Garces\Documents\classes\src\Modelo" />
       <recent name="C:\Users\Taynara Garces\Documents\classes" />
-      <recent name="C:\Users\Taynara Garces\Documents\classes\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PaulistaAdm" />
+      <recent name="C:\Users\Taynara Garces\Documents\classes\src\Abstrato" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.funcionarios.php">
+  <component name="RunManager" selected="PHP Script.teste.php">
     <configuration name="Banco.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Banco.php">
       <CommandLine>
         <PhpTestInterpreterSettings>
@@ -75,8 +105,17 @@
       </CommandLine>
       <method v="2" />
     </configuration>
+    <configuration name="teste.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/teste.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.teste.php" />
         <item itemvalue="PHP Script.funcionarios.php" />
         <item itemvalue="PHP Script.funcionario.php (1)" />
         <item itemvalue="PHP Script.funcionario.php" />
@@ -96,11 +135,23 @@
       <workItem from="1603228437822" duration="15923000" />
       <workItem from="1603669998313" duration="600000" />
       <workItem from="1603997256492" duration="1182000" />
+      <workItem from="1603998915840" duration="3677000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="263" y="19" key="#CLI_Interpreters" timestamp="1602515747953">
@@ -111,6 +162,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="390" y="7" key="#PHP/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602515601843" />
+    <state x="465" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603999157681">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="465" y="186" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1603999157681" />
     <state x="528" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1603401719972">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
@@ -121,41 +176,41 @@
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="494" y="139" key="FileChooserDialogImpl/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1603669619260" />
-    <state width="1261" height="192" key="GridCell.Tab.0.bottom" timestamp="1603669620753">
+    <state width="1261" height="192" key="GridCell.Tab.0.bottom" timestamp="1604002603161">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602548172992" />
     <state width="1261" height="192" key="GridCell.Tab.0.bottom/62.0.1304.768/1366.0.1366.728@62.0.1304.768" timestamp="1603377744486" />
-    <state width="1261" height="192" key="GridCell.Tab.0.bottom/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1603669620753" />
-    <state width="1261" height="192" key="GridCell.Tab.0.center" timestamp="1603669620753">
+    <state width="1261" height="192" key="GridCell.Tab.0.bottom/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1604002603161" />
+    <state width="1261" height="192" key="GridCell.Tab.0.center" timestamp="1604002603160">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602548172991" />
     <state width="1261" height="192" key="GridCell.Tab.0.center/62.0.1304.768/1366.0.1366.728@62.0.1304.768" timestamp="1603377744486" />
-    <state width="1261" height="192" key="GridCell.Tab.0.center/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1603669620753" />
-    <state width="1261" height="192" key="GridCell.Tab.0.left" timestamp="1603669620753">
+    <state width="1261" height="192" key="GridCell.Tab.0.center/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1604002603160" />
+    <state width="1261" height="192" key="GridCell.Tab.0.left" timestamp="1604002603159">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602548172989" />
     <state width="1261" height="192" key="GridCell.Tab.0.left/62.0.1304.768/1366.0.1366.728@62.0.1304.768" timestamp="1603377744486" />
-    <state width="1261" height="192" key="GridCell.Tab.0.left/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1603669620753" />
-    <state width="1261" height="192" key="GridCell.Tab.0.right" timestamp="1603669620753">
+    <state width="1261" height="192" key="GridCell.Tab.0.left/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1604002603159" />
+    <state width="1261" height="192" key="GridCell.Tab.0.right" timestamp="1604002603161">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602548172991" />
     <state width="1261" height="192" key="GridCell.Tab.0.right/62.0.1304.768/1366.0.1366.728@62.0.1304.768" timestamp="1603377744486" />
-    <state width="1261" height="192" key="GridCell.Tab.0.right/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1603669620753" />
-    <state x="512" y="92" key="NewPhpClassDialog" timestamp="1603400108669">
+    <state width="1261" height="192" key="GridCell.Tab.0.right/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1604002603161" />
+    <state x="512" y="92" key="NewPhpClassDialog" timestamp="1604001890170">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="471" y="87" key="NewPhpClassDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602537042682" />
     <state x="512" y="92" key="NewPhpClassDialog/62.0.1304.768/1366.0.1366.728@62.0.1304.768" timestamp="1603378733493" />
-    <state x="512" y="92" key="NewPhpClassDialog/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1603400108669" />
-    <state x="556" y="303" key="NewPhpFileDialog" timestamp="1603401364709">
+    <state x="512" y="92" key="NewPhpClassDialog/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1604001890170" />
+    <state x="556" y="303" key="NewPhpFileDialog" timestamp="1603999613760">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602506974197" />
-    <state x="556" y="303" key="NewPhpFileDialog/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1603401364709" />
+    <state x="556" y="303" key="NewPhpFileDialog/62.0.1304.768/1428.0.1304.768@62.0.1304.768" timestamp="1603999613760" />
     <state x="62" y="0" width="1122" height="535" key="dock-window-1" timestamp="1603377928355">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
